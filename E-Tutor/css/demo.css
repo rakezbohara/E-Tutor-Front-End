@@ -269,7 +269,9 @@ p.codrops-demos a.current-demo:hover{
 .cont{
 	
 	margin-left: 3%;
-4
+	margin-top: 3%;
+
+
 }
 .cont img{
 
@@ -284,10 +286,10 @@ p.codrops-demos a.current-demo:hover{
   	padding: 20px;
   	border-radius: 2px;
   	background-color: #26a69a;
-	width: 50%;
-	height: 250px;
+  	opacity: 0.7;
+	margin-top: -8%;
 	margin-left: 20%;
-	margin-top: 4%;
+	
 }
 .cont .post-ques h6{
 	color: black;
@@ -319,6 +321,22 @@ p.codrops-demos a.current-demo:hover{
 	float: right;
 
 }
+.cont .right{
+	float: right;
+	margin-right: 2%;
+	border-radius: 2px;
+  	
+  
+	
+}
+.course-taken{
+	background-color: #26a69a;
+  	opacity: 0.7;
+  	padding-left: 5%;
+  	padding-top: 0.02px;
+  	margin-right: 2%;
+	border-radius: 2px;
+}
 .cont .left{
 	text-align: center;
 	width: 15%;
@@ -346,4 +364,40 @@ p.codrops-demos a.current-demo:hover{
 	font-size: 20px;
 
 	
+}
+
+.cust-container{
+	 
+	margin-left: 20%;
+	position: relative;
+	margin-top: 5%;
+}
+.cust-container h3{
+	color: #26a69a;
+	font-weight: bold;
+}
+
+.cust-container a{
+	color: #111;
+	font-weight: bold;
+}
+
+.cust-container a:hover{
+	color: #111;
+	font-size: 15px;
+	text-decoration: none;
+	font-weight: bold;
+}
+.cust-container p{
+	color: #757575;
+	font-style: italic;
+	
+}
+.heading{
+	font-size: 25px;
+	color: #fff;
+}
+.cust-a{
+	color: #111;
+	font-size: 15px;
 }
